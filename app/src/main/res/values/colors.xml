@@ -1,5 +1,6 @@
 
 <resources>
+    <color name="backgroundDefaultColor">#FFFFFF</color>
     <color name="seed">#187dff</color>
     <color name="md_theme_light_primary">#005BC1</color>
     <color name="md_theme_light_onPrimary">#FFFFFF</color>
